@@ -481,8 +481,8 @@
     background: #1e3551;
   }
   
-  .skills-content .right .python::before {
-    width: 90%;
+  .skills-content .right .Java::before {
+    width: 70%;
   }
   
   .skills-content .right .html::before {
